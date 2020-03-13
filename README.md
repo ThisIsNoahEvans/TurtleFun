@@ -7,4 +7,6 @@ It quickly turned into just a bit of fun, and I decided that I should post the c
 
 Don't expect much - they're all very simple tasks but some of them look pretty cool.
 
+*Note: if you find any issues or bugs, don't bother submitting an issue or starting a pull request. I won't be maintaining this repo.*
+
 ### Enjoy!
